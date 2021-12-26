@@ -17,13 +17,30 @@ export const Work = [
     id: 1,
   },
   {
+    name: "Not Amazon Clone",
+    demo: "https://ema-john-29ae8.web.app/",
+    github: "https://github.com/Suplob/ema-john",
+    description:
+      "This is a complete full stacked not amazon clone site made with ReactJS and MongoDB.",
+    tags: [
+      "React",
+      "React-Router",
+      "Firebase Authentication",
+      "ExpressJS",
+      "NodeJS",
+      "MongoDB",
+      "Rest API",
+    ],
+    id: 2,
+  },
+  {
     name: "Learn Programming",
     demo: "https://learn-programming-suplob.netlify.app/",
     github: "https://github.com/Suplob/learn-programming",
     description:
       "A complete responsinve modern website made with ReactJS and ReactRouter",
     tags: ["React", "React-Router", "Tailwind CSS"],
-    id: 2,
+    id: 3,
   },
 
   {
@@ -43,7 +60,7 @@ export const Work = [
       "nodejs",
       "expressjs",
     ],
-    id: 3,
+    id: 4,
   },
   {
     name: "Doctors Portal",
@@ -52,7 +69,7 @@ export const Work = [
     description:
       "A fully responsive modern full stack website where user can get doctor appointment. Admin can update or remove order from dashboard",
     tags: ["ReactJS", "MongoDB atlas", "firebase authentication", "expressjs"],
-    id: 4,
+    id: 5,
   },
   {
     name: "Theme Park",
@@ -69,7 +86,7 @@ export const Work = [
       "nodejs",
       "expressjs",
     ],
-    id: 5,
+    id: 6,
   },
   {
     name: "Fresh Meal",
@@ -78,6 +95,6 @@ export const Work = [
     description:
       "A fully responsive modern website with pure HTML, CSS and JavaScript",
     tags: ["HTML", "CSS", "JavaScript"],
-    id: 5,
+    id: 7,
   },
 ];
